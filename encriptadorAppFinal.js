@@ -155,7 +155,7 @@ function repetir() {
              //llamo a la funcion limpiar texarea1
              limpiar("texarea1");
              //se llama a la funcion para cambiar el placeholder
-             cambiarPlaceholder("Solo se Permiten Minusculas, ⛔ MAYUSCULAS NO ACENTOS NO ⛔");
+             cambiarPlaceholder("Solo se Permiten Minusculas, ⛔MAYUSCULAS Y ACENTOS NO⛔");
              //funcion de temporizador
              setTimeout(() => repetir(), 7000);
 

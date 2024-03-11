@@ -285,7 +285,7 @@ main{
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;  
-    background-image: url(imagenes/fondo-piezas.jpg);
+    background-image: url("imagenes/fondo-piezas.jpg");
     font-family: "Anta", sans-serif;
     font-weight: 700;
     font-size: 35px;

@@ -30,10 +30,10 @@ const validaciones = [
 
 //llenando array1 de imagenes
 const noHayVidaimg = [
-    ["/imagenes/buscando-algo.jpg"],
-    ["/imagenes/buscando-algo1.jpg"],
-    ["/imagenes/buscando-algo2.jpg"],
-    ["/imagenes/buscando-algo3.jpg"],
+    ["imagenes/buscando-algo.jpg"],
+    ["imagenes/buscando-algo1.jpg"],
+    ["imagenes/buscando-algo2.jpg"],
+    ["imagenes/buscando-algo3.jpg"],
 ];
 
 //llenado de array1 de textos
